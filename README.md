@@ -25,7 +25,7 @@ Now if we click on Activity B, Activity A gets paused and Activity B gets create
 
 #### Dialog box
 
-If we click on the Dialog button, dilog box will be displayed and the main activity will be paused in the background untill we close the dialog box.thread counter will not be incremented.
+If we click on the Dialog button, dialog box will be displayed and the main activity will be paused in the background untill we close the dialog box thread counter will not be incremented.
 
 <img width="211" alt="image" src="https://user-images.githubusercontent.com/85700971/222936295-8341ce14-3093-4a1c-b867-5d3e2e9443da.png">
 
