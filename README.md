@@ -11,7 +11,7 @@ The purpose of the app is to understand the activity life cycle and the role of 
 
 #### Home page of the Android app "Activity Lifecycle"
 
-Home page consists of  Activity B  Button, Diaglog Button and close app button. When we launch the app home page will be displayed
+Home page consists of  Activity B  Button, Dialog Button and close app button. When we launch the app home page will be displayed
 
 <img width="191" alt="image" src="https://user-images.githubusercontent.com/85700971/222936566-5d96f2ee-c249-409b-807f-2a400afe1cd9.png">
 
